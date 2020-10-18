@@ -1,3 +1,5 @@
 #Curso
-![./neve.jpg](NEVE)
-Este documento é um exercíxio do curso.
+
+![./neve.jpg](../Desktop/gitcurso)
+
+Este documento é um exercício do curso.
